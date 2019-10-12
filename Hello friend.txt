@@ -1,1 +1,1 @@
-print("Hello world!")
+print("Hello world!-Это приветствие для людей")
